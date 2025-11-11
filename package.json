@@ -1,0 +1,18 @@
+{
+  "name": "spyra-privacy",
+  "version": "1.0.0",
+  "description": "Spyra Protocol aims to be the ultimate privacy tool that lets you create and trade pump tokens, privately!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
